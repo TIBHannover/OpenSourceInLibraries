@@ -10,7 +10,7 @@ token = ""
 github_session = requests.Session()
 github_session.auth = (username, token)
 
-libraries = open("libraries.csv", "rt")
+libraries = open("libraries.csv", "rt", encoding="utf-8")
 lines = libraries.readlines()
 json_result_string ='''
 {
