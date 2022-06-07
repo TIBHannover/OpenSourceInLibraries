@@ -48,5 +48,5 @@ json_result_string += '''
 }
 '''
 
-with open("all-libs.json", "w") as json_file:
+with open("all-libs.json", "w", encoding="utf-8") as json_file:
     json_file.write(json_result_string)

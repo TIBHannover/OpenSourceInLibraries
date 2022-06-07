@@ -27,7 +27,7 @@ html_string = '''
   </thead>
   <tbody id="myTable">
   '''
-with open("all-libs.json", 'r') as json_file:
+with open("all-libs.json", 'r', encoding="utf-8") as json_file:
     data = json.load(json_file)
     for org in data["organisations"]:
         html_string += "<tr><td>" + org['country'] + "</td><td>" + org['city'] + "</td><td><a href=\"" + org['url'] + "\">" + org['name'] + "</a></td><td>" + str(len(org['repositories'])) + "</td></tr>\n"
