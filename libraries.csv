@@ -3,10 +3,13 @@ Australia,Canberra,Trove - National Library of Australia,https://github.com/Trov
 Australia,Sydney,Macquarie University Library,https://github.com/mqlibrary
 Australia,Sydney,University of Technology Sydney Library,https://github.com/utslibrary
 Australia,Tasmania,University of Tasmania Library,https://github.com/UniTasLibrary
+Austria,Graz,Graz University of Technology,https://github.com/tu-graz-library
+Austria,Linz,Johannes Kepler University Linz Library,https://github.com/jku-sysbib
 Austria,Wien,AK Bibliothek Wien für Sozialwissenschaften,https://github.com/AKBibliothekWien
 Austria,Wien,Austrian National Library - Department Research and Development,https://github.com/ONB-RD
 Austria,Wien,Universitätsbibliothek der Technischen Universität Wien,https://github.com/UBTUW
 Belgium,Ghent,Ghent University Library,https://github.com/Universiteitsbibliotheek
+Brasil,Sao Paulo,SciELO - Scientific Electronic Library Online,https://github.com/scieloorg
 Canada,Burnaby (BC),Simon Fraser University Library,https://github.com/SFULibrary
 Canada,Edmonton (AB),Edmonton Public Library,https://github.com/EPLibrary
 Canada,Edmonton (AB),Edmonton Public Library,https://github.com/Edmonton-Public-Library
@@ -15,10 +18,12 @@ Canada,Edmonton (AB),University of Alberta Libraries,https://github.com/ualberta
 Canada,Fredericton (NB),University of New Brunswick Libraries,https://github.com/unb-libraries
 Canada,Guelph (ON),An Interdisciplinary Digital Humanities Lab in the McLaughlin Library at the University of Guelph,https://github.com/THINCLabGuelph
 Canada,Guelph (ON),University of Guelph Library,https://github.com/lib-uoguelph-ca
-Canada,Hamiilton (ON),Sherman Centre for Digital Scholarship at McMaster University,https://github.com/scds
+Canada,Hamilton (ON),Sherman Centre for Digital Scholarship at McMaster University,https://github.com/scds
+Canada,Hamilton (ON),McMaster University Library,https://github.com/McMaster-University-Library
 Canada,Montreal (QC),Digital Initiatives at McGill University Library,https://github.com/mcglib
 Canada,Kingston (ON),Queens' University Library,https://github.com/qulib
 Canada,Markham (ON),Markham Public Library,https://github.com/markhampubliclibrary
+Canada,Mississauga (ON),The University of Toronto Mississauga Library,https://github.com/utmlibrary
 Canada,Niagara Falls (ON),Niagara Falls Public Library,https://github.com/NiagaraFallsPublicLibrary
 Canada,Ottawa (ON),Carleton University Library,https://github.com/cu-library
 Canada,Peterborough (ON),Trent University Library & Archives,https://github.com/batalibrary
@@ -36,12 +41,14 @@ Canada,Vancouver (BC),BC Libraries Cooperative,https://github.com/BCLibCoop
 Canada,Vancouver (BC),The University of British Columbia Library,https://github.com/ubc-library
 Canada,Victoria (BC),Greater Victoria Public Library,https://github.com/GVPL
 Canada,Winnipeg (MB),ideaMILL at Winnipeg Public Library,https://github.com/wplideamill
+Canada,Wolfville (NS),Acadia University: Vaughan Memorial Library,https://github.com/Acadia-University-Library
 Czech Republic,Brno,Library Information Centre of the Masaryk University,https://github.com/KIC-MU
 Czech Republic,Prague,National Library of Technology,https://github.com/techlib
 Czech Republic,Prague,National Library of the Czech Republic,https://github.com/NLCR
 Czech Republic,Prague,Web archive of National Library of the Czech Republic,https://github.com/WebarchivCZ
 Denmark,Aalborg,Aalborg University Library,https://github.com/aalborgunilib
 Denmark,Copenhagen,Danskernes Digitale Bibliotek,https://github.com/danskernesdigitalebibliotek
+Denmark,Copenhagen,Det Digitale Folkebibliotek,https://github.com/danskernesdigitalebibliotek
 Denmark,Lyngby,DTU Library,https://github.com/dtulibrary
 Estonia,Tartu,University of Tartu Library,https://github.com/University-of-Tartu-Library
 Finland,Helsinki,National Library of Finland,https://github.com/NatLibFi
@@ -51,6 +58,7 @@ Germany,Berlin,BVB-KOBV-ALLIANZ,https://github.com/bvb-kobv-allianz
 Germany,Berlin,Deutsche Digitale Bibliothek,https://github.com/Deutsche-Digitale-Bibliothek
 Germany,Berlin,Libreas,https://github.com/libreas
 Germany,Berlin,Staatsbibliothek zu Berlin,https://github.com/StaatsbibliothekBerlin
+Germany,Berllin,University Library FU Berlin,https://github.com/ub-fu-berlin
 Germany,Berlin,University Library of Humboldt-Universität zu Berlin,https://github.com/UB-HU-Berlin
 Germany,Berlin,Universitätsbibliothek Technische Universität Berlin,https://github.com/tuub
 Germany,Berlin,Zeitschriftendatenbank (ZDB),https://github.com/Zeitschriftendatenbank
@@ -60,6 +68,7 @@ Germany,Bonn,MPI Collective Goods Library Bonn,https://github.com/bibliocoll
 Germany,Bremen,Staats- und Universitätsbibliothek Bremen,https://github.com/suub
 Germany,Darmstadt,ULB Darmstadt,https://github.com/ULB-Darmstadt
 Germany,Dresden,SLUB Saxon State and University Library Dresden,https://github.com/slub
+Germany,Dresden,SLUB Digital Preservation,https://github.com/SLUB-digitalpreservation
 Germany,Dortmund,Universitätsbibliothek Dortmund,https://github.com/UB-Dortmund
 Germany,Duisburg/Esssen,Bibliothek der Universität Duisburg-Essen,https://github.com/unibib-duisburg-essen
 Germany,Frankfurt am Main,Universitätsbibliothek Frankfurt am Main,https://github.com/ubffm
@@ -72,7 +81,9 @@ Germany,Hamburg,Staats- und Universitätsbibliothek Hamburg,https://github.com/s
 Germany,Hamburg,Universitätsbibliothek der TU Hamburg,https://github.com/tubhh
 Germany,Hamburg/Kiel,ZBW - Leibniz Information Centre for Economics,https://github.com/zbw
 Germany,Hannover,Technische Informationsbibliothek (TIB),https://github.com/TIBHannover
+Germany,Hannover,TIB Digital Preservation,https://github.com/TIB-Digital-Preservation
 Germany,Hannover,Bibliothek der Hochschule Hannover,https://github.com/HsH-Bibliothek
+Germany,Heidelberg,heiEDITIONS - Heidelberger digitale Editionen,https://github.com/heieditions
 Germany,Heidelberg,University Library Heidelberg,https://github.com/UB-Heidelberg
 Germany,Heidelberg,Web Opac App - Bringing public libraries to mobile platforms,https://github.com/opacapp
 Germany,Ilmenau,UB Ilmenau,https://github.com/ubilmenau
@@ -83,6 +94,7 @@ Germany,Leipzig,Universitätsbibliothek Leipzig,https://github.com/ubleipzig
 Germany,Leipzig,project finc (Cataloguing and Indexing software development at Leipzig University Library),https://github.com/finc
 Germany,Lübeck,Zentrale Hochschulbibliothek Lübeck,https://github.com/ZentraleHochschulbibliothekHL
 Germany,Mannheim,Universitätsbibliothek Mannheim,https://github.com/UB-Mannheim
+Germany,Mainz,University Library Mainz,https://github.com/ubmainz
 Germany,München,Max Planck Digital Library - MPDL,https://github.com/MPDL
 Germany,München,Universitätsbibliothek der LMU München,https://github.com/UB-LMU
 Germany,München,Münchener DigitalisierungsZentrum (MDZ),https://github.com/dbmdz
@@ -90,6 +102,7 @@ Germany,Paderborn,Universitätsbibliothek Paderborn,https://github.com/ubpb
 Germany,Rostock,Rostock University Library,https://github.com/ubrostock
 Germany,Tübingen,Universitätsbibliothek Tübingen,https://github.com/ubtue
 Germany,Weimar,Bibliothek der Hochschule für Musik,https://github.com/HfMWeimar
+Greece,Athens,University of West Attica - Department of Archival - Library and Information Studies,https://github.com/aLISUWA
 Hongkong,Hongkong,The Chinese University of Hong Kong Library,https://github.com/cuhk-library-lits
 Hongkong,Hongkong,Hong Kong Polytechnic University Library,https://github.com/PolyU-Library
 Hungary,Kaposvar,University Library,https://github.com/KE-LIB
@@ -106,9 +119,12 @@ Netherlands,Amsterdam,Amsterdam University Library,https://github.com/ubvu
 Netherlands,Amsterdam,Amsterdam University Library,https://github.com/VUAmsterdam-UniversityLibrary
 Netherlands,Den Haag,National Library of the Netherlands / Research,https://github.com/KBNLresearch
 Netherlands,Leiden,Leiden University Library,https://github.com/LeidenUniversityLibrary
+Netherlands,Maastricht,Maastricht University Library,https://github.com/MaastrichtU-Library
 Netherlands,Rotterdam,Erasmus University Library,https://github.com/erasmus-university-library
 New Zealand,Auckland,The University of Auckland Library,https://github.com/aucklanduni-library
 New Zealand,Lincoln,Lincoln University Library Teaching and Learning,https://github.com/LincolnUniLTL
+New Zealand,Wellington,Wellington University Library,https://github.com/VUW-Library
+New Zealand,Wellington,National Library of New Zealand Collection Services,https://github.com/nlnzcollservices
 Norway,Bergen,University of Bergen Library,https://github.com/ubbdst
 Norway,Mo i Rana,National Library of Norway - Web Archive,https://github.com/nlnwa
 Norway,Oslo,Digital Development Team at Oslo Public Library,https://github.com/digibib
@@ -117,10 +133,12 @@ Norway,Oslo,University of Oslo Library,https://github.com/uio-library
 Norway,Oslo / Bergen / Stavanger / Trondheim,Norwegian Business School Library,https://github.com/bisentralen
 Norway,Tromsø,Library at University of Tromsø,https://github.com/UiT-UB
 Norway,Trondheim,NTNU University Library,https://github.com/NTNUUB
+Philippines,Cavite,Cavite State University - Integrated Library System,https://github.com/cvsu-ils
 Poland,Warszawa,The National Library of Poland,https://github.com/the-national-library-of-poland
 Russian Federation,Kachkanar,Kachkanar Public Library,https://github.com/gorbib
 Russian Federation,Izhevsk,National Library of the Udmurt Republic,https://github.com/unatlib
 Russian Federation,Kazan,Kazan Federal University Academic Library,https://github.com/KFULibrary
+Saudi Arabia,Thuwal,KAUST University Library,https://github.com/kaust-library
 Sweden,Falun,The hospital library of Dalarna county,https://github.com/ldbib
 Sweden,Göteborg,Chalmers University of Technology Library,https://github.com/ChalmersLibrary
 Sweden,Jönköping,Jönköping University Library,https://github.com/JonkopingUniversityLibrary
@@ -130,8 +148,10 @@ Sweden,Stockholm,Stockholm University Library,https://github.com/StockholmUniver
 Switzerland,Basel,Swiss Library Catalogue (swissbib),https://github.com/swissbib
 Switzerland,Basel,Swiss Library Catalogue (swissbib info),https://github.com/linked-swissbib
 Switzerland,Bern,Bern University Library,https://github.com/UB-Bern
+Switzerland,Bern,Swiss National Library,https://github.com/SwissNationalLibrary
 Switzerland,Bern,University Library - University of Bern,https://github.com/ub-unibe-ch
 Switzerland,Lausanne,Medical Library of Lausanne University Hospital,https://github.com/bium
+Switzerland,St. Gallen,University of St.Gallen Library,https://github.com/HSG-Library
 Taiwan,Taipei,National Yang-Ming University Library,https://github.com/YMLIB
 Taiwan,Minhsiung Township,National Chung Cheng University Library,https://github.com/CCULibrary
 UK,Aberystwyth,National Library of Wales,https://github.com/LlGC-NLW
@@ -139,12 +159,14 @@ UK,Cambridge,Cambridge University Library,https://github.com/CamLib
 UK,Edinburgh,University of Edinburgh Library and University Collections Development Team,https://github.com/UoEMainLibrary
 UK,Edinburgh,National Library of Scotland Maps,https://github.com/NationalLibraryOfScotland
 UK,Lancaster,Lancaster University Library,https://github.com/lulibrary
+UK,Leeds,University of Leeds Library,https://github.com/uol-library
 UK,London,British Library,https://github.com/britishlibrary
 UK,London,British Library Labs Project,https://github.com/BL-Labs
 UK,London,Wellcome Library,https://github.com/wellcomelibrary
 UK,Manchester,University of Manchester Library,https://github.com/UoMLibrary
 UK,Oxford,The Bodleian Libraries of the University of Oxford,https://github.com/bodleian
 US,Allendale & Grand Rapids (MI),Grand Valley State University Libraries,https://github.com/gvsulib
+US,Ames (IA),Iowa State University Library,https://github.com/ISU-Library
 US,Ames (IA),Metadata Services @ Iowa State University,https://github.com/isu-meta
 US,Ann Arbor (MI),Ann Arbor District Library,https://github.com/aadl
 US,Ann Arbor (MI),Bentley Historical Library,https://github.com/bentley-historical-library
@@ -167,6 +189,7 @@ US,Boston (MA),Boston College Libraries,https://github.com/BCLIbraries
 US,Boston (MA),Boston Public Library,https://github.com/boston-library
 US,Boston (MA),Boston University Libraries,https://github.com/bulib
 US,Boston (MA),Digital Public Library of America,https://github.com/dpla
+US,Boston (MA),Northeastern University Library,https://github.com/NEU-Libraries
 US,Bozeman (MT),Montana State University Library,https://github.com/msulibrary
 US,Brooklyn (NY),Brooklyn Public Library,https://github.com/bklynlibrary
 US,Cambridge (MA),Harvard University Library Technology Services,https://github.com/harvard-library
@@ -208,17 +231,21 @@ US,Kennewick (WA),Mid-Columbia Libraries,https://github.com/Mid-Columbia-Librari
 US,Kenton County (KY),Kenton County Public Library,https://github.com/kentonlibrary
 US,Lakewood (CO),Jefferson County Public Library,https://github.com/jeffcolibrarycolorado
 US,Lebanon (NH),Lebanon Public Libraries,https://github.com/leblibrary
+US,Lexington (VA),Washington and Lee University Library,https://github.com/wlu-university-library
 US,Lincoln (NE),University of Nebraska - Lincoln Libraries,https://github.com/unl-libraries
 US,Loveland (CO),Loveland Public Library,https://github.com/lovelandpubliclibrary
 US,Los Angeles (CA),UCLA Library,https://github.com/UCLALibrary
 US,Maricopa County (AZ),Maricopa County Library District,https://github.com/mcld
+US,Middletown (CT),Wesleyan University Library,https://github.com/WesleyanULibrary
 US,Minneapolis (MN),University of Minnesota Libraries,https://github.com/UMNLibraries
+US,Minneapolis (MN),Walden University Library,https://github.com/waldenulibrary
 US,Montclair (NJ),Montclair State,https://github.com/MontclairState
 US,Nashville (TN),Nashville Public Library,https://github.com/Nashville-Public-Library
 US,Nashville (TN),Vanderbilt University Library,https://github.com/HeardLibrary
 US,New Haven (CT),Yale University Library official repository,https://github.com/yalelibrary
 US,New Haven (CT),Manuscripts and Archives at Yale University Library,https://github.com/yalemssa
 US,New Haven (CT),Beinecke Rare Book & Manuscript Library at Yale University,https://github.com/brbl-yale
+US,New Haven (CT),Buley Library,https://github.com/BuleyLibrary
 US,New Lonnox (IL),New Lenox Public Library,https://github.com/newlenoxlibrary
 US,New Orleans (LA),Tulane Howard-Tilton Memorial Library,https://github.com/Howard-Tilton-Library
 US,New York (NY),Columbia University Libraries,https://github.com/cul
@@ -237,6 +264,7 @@ US,O'Fallon,O'Fallon Public Library,https://github.com/OFallonPublicLibrary
 US,Oakland (CA),California Digital Library,https://github.com/cdlib
 US,Oakland (CA),Calisphere - University of California Libraries Digital Collections Project,https://github.com/ucldc
 US,Oakland (CA),Oakland Public Library,https://github.com/oakland-public-library
+US,Oxford (OH),Miami University Libraries of Ohio,https://github.com/Miamiohlibs
 US,Philadelphia (PA),Temple University Libraries,https://github.com/tulibraries
 US,Pittsburgh (PA),Carnegie Mellon University Libraries,https://github.com/cmu-lib
 US,Pittsburgh (PA),Digital Scholarship Services at the Pitt University Library System,https://github.com/DSSatPitt
@@ -245,10 +273,11 @@ US,Pittsburgh (PA),Metadata and Discovery Unit - University Library System - Uni
 US,Pittsburgh (PA),University of Pittsburgh Library System,https://github.com/ulsdevteam
 US,Portland (OR),Portland State University Library,https://github.com/pdxlibrary
 US,Princeton (NJ),Princeton University Library,https://github.com/pulibrary
-US,Princton (NJ),Princeton University Library's Cataloging Archival and Metadata Services (CAMS),https://github.com/pulcams
+US,Princeton (NJ),Princeton University Library's Cataloging Archival and Metadata Services (CAMS),https://github.com/pulcams
 US,Providence (RI),Brown University Library,https://github.com/Brown-University-Library
 US,Providence (RI),Providence Public Library,https://github.com/ppldev
 US,Raleigh (NC),NCSU Libraries,https://github.com/NCSU-Libraries
+US,Raleigh (NC),NCSU Libraries Data & Vis,https://github.com/ncsu-libraries-data-vis
 US,Raleigh (NC),State Library of North Carolina,https://github.com/SLNC-DIMP
 US,Richmond (VA),Library of Virginia,https://github.com/LibraryofVA
 US,Richmond (VA),Virginia Commonwealth University Libraries,https://github.com/vculibraries
@@ -260,6 +289,7 @@ US,San Diego (CA),UCSD Library,https://github.com/ucsdlib
 US,San Francisco / Oakland (CA),California College of the Arts,https://github.com/cca
 US,San Francisco (CA),Public Library of Science (PLOS),https://github.com/PLOS
 US,San Jose (CA),San Jose Public Library,https://github.com/sanjosepubliclibrary
+US,San Jose (CA),Martin Luther King Jr. Library San José State University,https://github.com/sjsu-library
 US,San Marcos (CA),CSU San Marcos,https://github.com/csusm-library
 US,San Marcos (TX),Albert B. Alkek Library - Texas State University,https://github.com/AlkekLibrary
 US,Santa Cruz (CA),UCSC Library,https://github.com/UCSCLibrary
@@ -271,7 +301,9 @@ US,Stanford (CA),Stanford University Libraries - Carpentries,https://github.com/
 US,Stanford (CA),Center for Interdisciplinary Digital Research at Stanford University Libraries,https://github.com/sul-cidr
 US,Stanford (CA),LOCKSS Program at Stanford University Libraries,https://github.com/lockss
 US,Starkville (MS),Mississippi State University Libraries - Digital Initiatives & Web Services,https://github.com/MSULibraries
+US,Stockton (CA),University of the Pacific Libraries,https://github.com/uop-libraries
 US,Tampa (FL),University of South Florida Libraries,https://github.com/usflibraries
+US, Tallahassee (FL),Florida State University Libraries,https://github.com/fsulib
 US,Tempe (AZ),Unit for Data Science at Hayden Library at Arizona State University,https://github.com/UnitForDataScience
 US,Tinley Park (IL),Tinley Park Public Library,https://github.com/TinleyParkPublicLibrary
 US,Trenton (NJ),New Jersey State Library,https://github.com/njstatelibrary
