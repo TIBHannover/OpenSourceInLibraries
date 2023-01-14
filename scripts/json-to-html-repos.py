@@ -5,18 +5,22 @@ html_string = '''
 <html>
     <head>
         <meta charset="UTF-8">
-        <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
-        <script src="scripts/filter.js"></script>
-        <link rel="stylesheet" type="text/css" href="scripts/custom.css">
+
+        <link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/1.13.1/css/jquery.dataTables.css">
+        <script type="text/javascript" language="javascript" src="https://code.jquery.com/jquery-3.5.1.js"></script>
+        <script type="text/javascript" charset="utf8" src="https://cdn.datatables.net/1.13.1/js/jquery.dataTables.js"></script>
+
+        <script type="text/javascript" class="init">
+          $(document).ready( function () {
+            $('#table_id').DataTable();
+          } );
+        </script>
     </head>
     <body>
 
         <h2>Library Repositories on GitHub</h2>
-        <p>Type something in the input field to search the table for projects</p>
-        <input id="myInput" type="text" placeholder="Search ...">
-        <br><br>
 
-<table>
+<table id="table_id" class="display">
   <thead>
   <tr>
     <th>Organisation</th>
