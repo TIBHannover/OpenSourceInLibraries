@@ -15,6 +15,12 @@ html_string = '''
             $('#table_id').DataTable();
           } );
         </script>
+        <style>
+          body {
+            font-family: Tahoma, Verdana, sans-serif;
+            margin: 30px;
+          }
+        </style>
     </head>
     <body>
 
