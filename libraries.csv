@@ -57,6 +57,8 @@ Germany,Bamberg,Universitätsbibliothek Bamberg,https://github.com/uniba-ub
 Germany,Berlin,BVB-KOBV-ALLIANZ,https://github.com/bvb-kobv-allianz
 Germany,Berlin,Deutsche Digitale Bibliothek,https://github.com/Deutsche-Digitale-Bibliothek
 Germany,Berlin,Libreas,https://github.com/libreas
+Germany,Berlin,KOBV OPUS4,https://github.com/opus4
+Germany,Berlin,KOBV OA-DeepGreen,https://github.com/oa-deepgreen
 Germany,Berlin,Staatsbibliothek zu Berlin,https://github.com/StaatsbibliothekBerlin
 Germany,Berllin,University Library FU Berlin,https://github.com/ub-fu-berlin
 Germany,Berlin,University Library of Humboldt-Universität zu Berlin,https://github.com/UB-HU-Berlin
@@ -77,6 +79,7 @@ Germany,Göttingen,DINI AG KIM,https://github.com/dini-ag-kim
 Germany,Göttingen,Niedersächsische Staats- und Universitätsbibliothek Göttingen (SUB Göttingen),https://github.com/subugoe
 Germany,Göttingen,Gemeinsamer Bibliotheksverbund (GBV Göttingen),https://github.com/gbv
 Germany,Göttingen,Gemeinsamer Verbünde Index (GVI),https://github.com/gemeinsamerverbuendeindex
+Germany,Halle,Universitäts- und Landesbibliothek Sachsen-Anhalt,https://github.com/ulb-sachsen-anhalt
 Germany,Hamburg,Staats- und Universitätsbibliothek Hamburg,https://github.com/subhh
 Germany,Hamburg,Universitätsbibliothek der TU Hamburg,https://github.com/tubhh
 Germany,Hamburg/Kiel,ZBW - Leibniz Information Centre for Economics,https://github.com/zbw
@@ -98,7 +101,10 @@ Germany,Mainz,University Library Mainz,https://github.com/ubmainz
 Germany,München,Max Planck Digital Library - MPDL,https://github.com/MPDL
 Germany,München,Universitätsbibliothek der LMU München,https://github.com/UB-LMU
 Germany,München,Münchener DigitalisierungsZentrum (MDZ),https://github.com/dbmdz
+Germany,Münster,Universitäts- und Landesbibliothek Münster,https://github.com/ulbmuenster
+Germany,Osnabrück,Universitätsbibliothek Osnabrück,https://github.com/Universitaetsbibliothek-Osnabrueck
 Germany,Paderborn,Universitätsbibliothek Paderborn,https://github.com/ubpb
+Germany,Regensburg,Universitätsbibliothek Regensburg,https://github.com/ub-regensburg
 Germany,Rostock,Rostock University Library,https://github.com/ubrostock
 Germany,Tübingen,Universitätsbibliothek Tübingen,https://github.com/ubtue
 Germany,Weimar,Bibliothek der Hochschule für Musik,https://github.com/HfMWeimar
@@ -151,6 +157,7 @@ Switzerland,Bern,Bern University Library,https://github.com/UB-Bern
 Switzerland,Bern,Swiss National Library,https://github.com/SwissNationalLibrary
 Switzerland,Bern,University Library - University of Bern,https://github.com/ub-unibe-ch
 Switzerland,Lausanne,Medical Library of Lausanne University Hospital,https://github.com/bium
+Switzerland,Luzern,Zentral- und Hochschulbibliothek Luzern,https://github.com/zhbluzern
 Switzerland,St. Gallen,University of St.Gallen Library,https://github.com/HSG-Library
 Taiwan,Taipei,National Yang-Ming University Library,https://github.com/YMLIB
 Taiwan,Minhsiung Township,National Chung Cheng University Library,https://github.com/CCULibrary
