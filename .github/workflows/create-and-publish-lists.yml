@@ -17,8 +17,11 @@ jobs:
           python scripts/csv-to-json-gitlab.py
           python scripts/json-to-html-libs-gitlab.py
           python scripts/json-to-html-repos-gitlab.py
+          python scripts/csv-to-json.py ${{ secrets.GITHUB_TOKEN }}
+          python scripts/json-to-html-libs.py
+          python scripts/json-to-html-repos.py
           mkdir .public
-          cp {libraries-gitlab.html,repositories-gitlab.html} .public
+          cp {libraries-gitlab.html,repositories-gitlab.html,libraries.html,repositories.html} .public
           mv .public public
       - uses: actions/upload-pages-artifact@v3
         with:
