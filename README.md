@@ -6,13 +6,13 @@ If you know a library that is not on the list, please comment on Issue "[New lib
 
 ### Libraries on GitHub
 * [Source List](libraries.csv)
-* [List of libraries](https://axel-klinger.github.io/BibsOnGitHub/libraries.html)
-* [List of repositories](https://axel-klinger.github.io/BibsOnGitHub/repositories.html)
+* [List of libraries](https://tibhannover.github.io/OpenSourceInLibraries/libraries.html)
+* [List of repositories](https://tibhannover.github.io/OpenSourceInLibraries/repositories.html)
 
 ### Libraries on GitLab
 * [Source List](libraries-gitlab.csv)
-* [List of libraries](https://axel-klinger.github.io/BibsOnGitHub/libraries-gitlab.html)
-* [List of repositories](https://axel-klinger.github.io/BibsOnGitHub/repositories-gitlab.html)
+* [List of libraries](https://tibhannover.github.io/OpenSourceInLibraries/libraries-gitlab.html)
+* [List of repositories](https://tibhannover.github.io/OpenSourceInLibraries/repositories-gitlab.html)
 
 ## Add new entries
 
@@ -26,10 +26,7 @@ If you know a library that is not on the list, please comment on Issue "[New lib
 
 ### GitLab
 * edit [libraries-gitlab.csv](libraries-gitlab.csv)
-* run [csv-to-json-gitlab.py](scripts/csv-to-json-gitlab.py)
-* run [json-to-html-libs-gitlab.py](scripts/json-to-html-libs-gitlab.py) to generate the table libraries
-* run [json-to-html-repos-gitlab.py](scripts/json-to-html-repos-gitlab.py) to generate the table repositories
-
+* will be published at github pages automatically
 
 ## License
 
