@@ -29,12 +29,16 @@ for line in lines:
     api_url = "https://gitlab.com/api/v4/groups/" + gitlab_orga + "/projects?include_subgroups=true"
 
     res = gitlab_session.get(url=api_url)
-    repo_data = res.json()
-    # while 'next' in res.links.keys():
-    #     res=requests.get(res.links['next']['url'])
-    #     repo_data.extend(res.json())
+    if res.status_code == 200:
+        repo_data = res.json()
+        # while 'next' in res.links.keys():
+        #     res=requests.get(res.links['next']['url'])
+        #     repo_data.extend(res.json())
+        json_result_string += json.dumps(repo_data, indent=4, ensure_ascii=0) + "\n"
+    else:
+        print("No result for project query of '" + name + "'")
+        json_result_string += "[]\n"
 
-    json_result_string += json.dumps(repo_data, indent=4, ensure_ascii=0) + "\n"
     json_result_string += "    },\n"
 
 json_result_string = json_result_string[:-2]

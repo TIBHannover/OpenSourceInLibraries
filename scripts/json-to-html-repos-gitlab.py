@@ -48,7 +48,7 @@ with open("all-libs-gitlab.json", 'r') as json_file:
           #         license = repo['license']['spdx_id']
           #     else:
           #         license = " "
-          html_string += "<tr><td>" + org['name'] + "</td><td><a href=\"" + repo['web_url'] + "\">" + repo['name'] + "</a></td><td>" + str(repo['star_count']) + "</td><td>" + str(repo['forks_count']) + "</td><td>" + repo['last_activity_at'].split("T")[0] + "</td></tr>\n"
+          html_string += "<tr><td>" + org['name'] + "</td><td><a href=\"" + repo['web_url'] + "\">" + repo['name'] + "</a></td><td>" + str(repo.get('star_count', "N/A")) + "</td><td>" + str(repo.get('forks_count', "N/A")) + "</td><td>" + repo['last_activity_at'].split("T")[0] + "</td></tr>\n"
 
 html_string += '''
   </tbody>
