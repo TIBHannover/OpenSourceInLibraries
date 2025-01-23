@@ -1,14 +1,23 @@
 import re
 import json
+import requests.auth
 import requests
 import sys
 
-# fill in username and token to get 5000 instead of 60 requests per hour
-username = ""
-token = ""
+class BearerAuth(requests.auth.AuthBase):
+    def __init__(self, token):
+        self.token = token
+    def __call__(self, r):
+        r.headers["authorization"] = "Bearer " + self.token
+        return r
 
-github_session = requests.Session()
-github_session.auth = (username, token)
+# fill in username and token to get 5000 instead of 60 requests per hour
+if len(sys.argv) > 1:
+    auth = BearerAuth(sys.argv[1])
+else:
+    username = ""
+    github_token = ""
+    auth = (username, github_token)
 
 libraries = open("libraries.csv", "rt", encoding="utf-8")
 lines = libraries.readlines()
@@ -33,7 +42,7 @@ for line in lines:
 
     api_url = "https://api.github.com/orgs/" + github_orga + "/repos?per_page=100&page=1"
 
-    res = github_session.get(url=api_url)
+    res = requests.get(url=api_url, auth=auth)
     repo_data = res.json()
     while 'next' in res.links.keys():
         res=requests.get(res.links['next']['url'])
