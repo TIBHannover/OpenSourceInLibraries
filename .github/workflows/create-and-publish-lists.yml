@@ -26,6 +26,7 @@ jobs:
           python scripts/json-to-html-libs.py
           python scripts/json-to-html-repos.py
           mkdir .public
+          cp -r static .public/
           cp {libraries-gitlab.html,repositories-gitlab.html,libraries.html,repositories.html} .public
           mv .public public
       - uses: actions/upload-pages-artifact@v3

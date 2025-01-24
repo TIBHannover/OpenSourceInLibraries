@@ -6,9 +6,9 @@ html_string = '''
     <head>
         <meta charset="UTF-8">
 
-        <link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/1.13.1/css/jquery.dataTables.css">
-        <script type="text/javascript" language="javascript" src="https://code.jquery.com/jquery-3.5.1.js"></script>
-        <script type="text/javascript" charset="utf8" src="https://cdn.datatables.net/1.13.1/js/jquery.dataTables.js"></script>
+        <link rel="stylesheet" type="text/css" href="static/datatables/1.13.1/css/jquery.dataTables.css">
+        <script type="text/javascript" language="javascript" src="static/jquery/jquery-3.5.1.js"></script>
+        <script type="text/javascript" charset="utf8" src="static/datatables/1.13.1/js/jquery.dataTables.js"></script>
 
         <script type="text/javascript" class="init">
           $(document).ready( function () {
