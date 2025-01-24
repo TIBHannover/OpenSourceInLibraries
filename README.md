@@ -18,11 +18,7 @@ If you know a library that is not on the list, please comment on Issue "[New lib
 
 ### GitHub
 * edit [libraries.csv](libraries.csv)
-* run [csv-to-json.py](scripts/csv-to-json.py) (GitHub Access Token required for more than 60 requests per hour)
-| Settings -> Developer Settings -> Personal Access Token: select nothing, it is just for reading -> Generate! 
-* run [json-to-html-libs.py](scripts/json-to-html-libs.py) to generate the table libraries
-* run [json-to-html-repos.py](scripts/json-to-html-repos.py) to generate the table repositories
-* DO NOT COMMIT your personal access token!
+* will be published at github pages automatically
 
 ### GitLab
 * edit [libraries-gitlab.csv](libraries-gitlab.csv)
