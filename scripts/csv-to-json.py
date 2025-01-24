@@ -48,7 +48,7 @@ for line in lines:
     res = gitlab_session.get(url=api_url)
     repo_data = res.json()
     while 'next' in res.links.keys():
-        res=requests.get(res.links['next']['url'])
+        res=gitlab_session.get(res.links['next']['url'])
         repo_data.extend(res.json())
 
     json_result_string += json.dumps(repo_data, indent=4, ensure_ascii=0) + "\n"
