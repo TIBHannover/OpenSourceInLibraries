@@ -40,7 +40,7 @@ for line in lines:
     json_result_string += "      \"city\": \"" + city + "\",\n"
     json_result_string += "      \"url\": \"" + link.replace("\n","") + "\",\n"
     json_result_string += "      \"repositories\": "
-    github_orga = re.findall("\/([^\/^$]+)$", link)[0].replace("\n","")
+    github_orga = re.findall("/([^/^$]+)$", link)[0].replace("\n","")
     print(country + "   " + city + "   " + github_orga)
 
     api_url = "https://api.github.com/orgs/" + github_orga + "/repos?per_page=100&page=1"

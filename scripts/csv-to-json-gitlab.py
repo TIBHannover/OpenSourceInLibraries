@@ -23,7 +23,7 @@ for line in lines:
     json_result_string += "      \"city\": \"" + city + "\",\n"
     json_result_string += "      \"url\": \"" + link.replace("\n","") + "\",\n"
     json_result_string += "      \"repositories\": "
-    gitlab_orga = re.findall("\/([^\/^$]+)$", link)[0].replace("\n","")
+    gitlab_orga = re.findall("/([^/^$]+)$", link)[0].replace("\n","")
     print(country + "   " + city + "   " + gitlab_orga)
 
     api_url = "https://gitlab.com/api/v4/groups/" + gitlab_orga + "/projects?include_subgroups=true"
