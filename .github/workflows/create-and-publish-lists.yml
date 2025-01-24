@@ -1,5 +1,8 @@
 name: Create and publish lists
-on: [push]
+on:
+  push:
+  schedule:
+    - cron: '20 2 * * SAT'
 
 jobs:
   create-lists:
