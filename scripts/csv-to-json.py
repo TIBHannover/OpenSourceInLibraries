@@ -19,6 +19,9 @@ else:
     github_token = ""
     auth = (username, github_token)
 
+gitlab_session = requests.Session()
+gitlab_session.auth = auth
+
 libraries = open("libraries.csv", "rt", encoding="utf-8")
 lines = libraries.readlines()
 json_result_string ='''
@@ -42,7 +45,7 @@ for line in lines:
 
     api_url = "https://api.github.com/orgs/" + github_orga + "/repos?per_page=100&page=1"
 
-    res = requests.get(url=api_url, auth=auth)
+    res = gitlab_session.get(url=api_url)
     repo_data = res.json()
     while 'next' in res.links.keys():
         res=requests.get(res.links['next']['url'])
