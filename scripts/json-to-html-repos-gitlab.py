@@ -53,6 +53,9 @@ with open("all-libs-gitlab.json", 'r') as json_file:
 html_string += '''
   </tbody>
 </table>
+<div style="position: fixed; right: 10px;">
+    <a href="https://github.com/TIBHannover/OpenSourceInLibraries" aria-label="View source code on GitHub">Source Code on GitHub</a>
+</div>
 </body>
 '''
 with open('repositories-gitlab.html', 'w', encoding='utf8') as html_file:

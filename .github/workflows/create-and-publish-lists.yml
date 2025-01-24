@@ -1,6 +1,8 @@
 name: Create and publish lists
 on:
   push:
+    branches:
+      - master
   schedule:
     - cron: '20 2 * * SAT'
 
