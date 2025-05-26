@@ -5,6 +5,7 @@ on:
       - master
   schedule:
     - cron: '20 2 * * SAT'
+  workflow_dispatch:
 
 jobs:
   create-lists:
